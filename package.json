@@ -1,0 +1,9 @@
+{
+  "name": "jsprime",
+  "version": "1.0.0",
+  "main": "prime.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node prime.js"
+  }
+}
